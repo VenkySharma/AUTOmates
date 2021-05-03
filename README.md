@@ -14,9 +14,7 @@ Since this process is key to your business's success, you need to make sure that
 * Run a script on your web server to monitor system health.
 * Send an email with an alert if the server is ever unhealthy.
 
-Hopefully this summary has helped you start thinking about how you’ll approach this task. In case you’re feeling a little scared, don't worry, you can definitely do this! You have all the necessary tools, and the lab description will go into a lot more detail of what you need to do.
 
-Up next, we'll give you a few tips that can help you along the way.
 
 
 ## How to Approach the Problem
