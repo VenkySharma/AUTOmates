@@ -1,4 +1,5 @@
 #Project Problem Statement
+
 Okay, here's the scenario:
 
 You work for an online fruit store, and you need to develop a system that will update the catalog information with data provided by your suppliers. When each supplier has new products for your store, they give you an image and a description of each product.
@@ -17,6 +18,7 @@ Up next, we'll give you a few tips that can help you along the way.
 
 
 #How to Approach the Problem
+
 We're giving you a pretty big project to do at the end of this course -- but you can totally complete it with what you've learned until now! Take your time, and be methodical. Use these tips to help you:
 
 Break the problem down into smaller pieces. If you’re not sure how to solve a piece of the puzzle, look for an even smaller piece that you can solve. Build up those smaller pieces into a larger solution!
